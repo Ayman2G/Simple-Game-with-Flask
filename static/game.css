@@ -1,0 +1,24 @@
+#result {
+    font-size: 2em;
+    text-align: center;
+    margin: 1em 0;
+}
+
+#choices {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font-size: 1.5em;
+    padding: 0.5em 1em;
+    margin: 0 0.5em;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3E8E41;
+}
